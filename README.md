@@ -10,7 +10,7 @@
 - **SUPER JUMP** (óriási ugrás)
 - **SPEED RUN** (nagyon gyors futás)
 - **SKIN váltás** (Rangnak megfelelő skin)
-- **Paranccsal** (*/adminduty*) és **billengyúvel** (*F10*) indítható
+- **Paranccsal** (*/adminduty*) indítható
 
 
 # Telepítés menete
