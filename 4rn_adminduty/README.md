@@ -2,7 +2,7 @@
 
 (c) scg_4rnOLD | MIT licensz
 
-"Ez a project egyátfogó admin és hozzáférési rendszer (**4rn_AdminPanel**) része, mely önállóan is futtatható kis és közepes ESX keretrendszerű Fivem RP szervereken. Elsődleges feladata, hogy az adminok (superadmin, admin, moderátor) teljeskörűen védve legyen a játékosok behatásaitól."
+"Ez a project egy átfogó admin és hozzáférési rendszer (**4rn_AdminPanel**) része, mely önállóan is futtatható kis és közepes ESX keretrendszerű Fivem RP szervereken. Elsődleges feladata, hogy az adminok (superadmin, admin, moderátor) teljeskörűen védve legyen a játékosok behatásaitól."
 
 # Funkciók
 - **GOD MODE** (halhatatlanság)
