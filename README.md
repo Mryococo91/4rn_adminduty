@@ -21,6 +21,7 @@ Video: https://youtu.be/M4nk9V_-T_s
 - Start the resource (add **start 4rn_adminduty** in `server.cfg`)
 - Command in chat: **/adminduty**
 
+more: https://forum.cfx.re/t/release-esx-4rn-adminduty/1748445
 
 # [ESX]4rn_AdminDuty 1.0 - HUNGARY
 
