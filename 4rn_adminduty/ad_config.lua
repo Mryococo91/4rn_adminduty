@@ -12,7 +12,7 @@
 
 Config                            = {}
 
-Config.Locale = 'hu' 			--◀️ Language (now available: hu,en)
+Config.Locale = 'en' 			--◀️ Language (now available: hu,en)
 Config.canrd = false			--◀️ Ragdoll in duty? (false: nothing ragdoll in admin duty)
 Config.superjmp = true 			--◀️ Super jump and super speed in duty? (true: jump and speed activate)
 
