@@ -31,9 +31,6 @@ end)
 
 TriggerEvent("es:addGroupCommand", "adminduty", "mod", function(source, args)
 	TriggerClientEvent("adminSzoli", source)
-	end, 
-	function(source, args)
+	end, function(source, args)
 	TriggerClientEvent("chatMessage", source, _U('noadmin'))
-	end,
-	{help = _U('hlp')})
-end)
+	end, {help = "adminduty"} )
