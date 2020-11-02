@@ -1,3 +1,5 @@
+Video: https://youtu.be/M4nk9V_-T_s 
+
 # [ESX]4rn_AdminDuty 1.0 - ENGLISH
 
 (c) scg_4rnOLD | MIT licensz
