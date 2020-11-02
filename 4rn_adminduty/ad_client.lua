@@ -84,7 +84,7 @@ AddEventHandler("adminSzoli", function()
 		ESX.DrawMissionText("~g~".._U('admin_on'), 4000)
 		SetEntityInvincible(playerPed, true)
 		
-		if Config.canrd then 
+		if Config.canrd == false then 
 			SetPedCanRagdoll(GetPlayerPed(-1), false) 
 		end
 		cleanPlayer()
