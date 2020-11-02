@@ -45,6 +45,7 @@ A project feltételezi, hogy FIVEM szerver alatt ESX keretrendszert használsz.A
   - ES_EXTENDED (https://github.com/esx-framework/es_extended)
   - SKINCHANGER (https://github.com/esx-framework/skinchanger)
   - ESX_SKIN (https://github.com/esx-framework/esx_skin)
+  - EssentialMode (https://forum.cfx.re/t/release-essentialmode-base/3665)
  
 ### ACE csoportok meghatározása
 Az adminokat, moderátorokat, steam ID alapján a server.cfg-be előre meg kell adni. A következő sorokat a **server.cfg** file-ba írd bele:
