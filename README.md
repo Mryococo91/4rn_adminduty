@@ -1,8 +1,30 @@
+# [ESX]4rn_AdminDuty 1.0 - ENGLISH
+
+(c) scg_4rnOLD | MIT licensz
+
+**Features:**
+
+- **Change skin** permission
+- **God mode**
+- **Anti-Ragdoll**
+- **Super Jump**
+- **Speed run**
+- Multi language (now available: hu,en)
+- Config
+
+**Installation**
+
+- Download [last release](https://github.com/halicsarnold/4rn_adminduty)
+- Configure what you want in `ad_config.lua`
+- Start the resource (add **start 4rn_adminduty** in `server.cfg`)
+- Command in chat: **/adminduty**
+
+
 # [ESX]4rn_AdminDuty 1.0 - HUNGARY
 
 (c) scg_4rnOLD | MIT licensz
 
-"Ez a project egy átfogó admin és hozzáférési rendszer (**4rn_AdminPanel**) része, mely önállóan is futtatható kis és közepes ESX keretrendszerű Fivem RP szervereken. Elsődleges feladata, hogy az adminok (superadmin, admin, moderátor) teljeskörűen védve legyen a játékosok behatásaitól."
+"Ez a project egyátfogó admin és hozzáférési rendszer (**4rn_AdminPanel**) része, mely önállóan is futtatható kis és közepes ESX keretrendszerű Fivem RP szervereken. Elsődleges feladata, hogy az adminok (superadmin, admin, moderátor) teljeskörűen védve legyen a játékosok behatásaitól."
 
 # Funkciók
 - **GOD MODE** (halhatatlanság)
@@ -22,7 +44,7 @@ A project feltételezi, hogy FIVEM szerver alatt ESX keretrendszert használsz.A
   - ESX_SKIN (https://github.com/esx-framework/esx_skin)
  
 ### ACE csoportok meghatározása
-Az adminokat, moderátorokat, steam ID alapján a server.cfg-be előre meg kell adni. A következő sorokat  **server.cfg** file-ba írd bele:
+Az adminokat, moderátorokat, steam ID alapján a server.cfg-be előre meg kell adni. A következő sorokat a **server.cfg** file-ba írd bele:
 - add_principal identifier.steam:111111111111111 group.superadmin
 - add_principal identifier.steam:111111111111111 group.radmin
 - add_principal identifier.steam:111111111111111 group.mod
