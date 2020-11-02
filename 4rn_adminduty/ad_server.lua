@@ -30,7 +30,10 @@ ESX.RegisterServerCallback("Admin:getRankFromPlayer", function(source, cb)
 end)
 
 TriggerEvent("es:addGroupCommand", "adminduty", "mod", function(source, args)
-    TriggerClientEvent("adminSzoli", source)
-end, function(source, args)
+	TriggerClientEvent("adminSzoli", source)
+	end, 
+	function(source, args)
 	TriggerClientEvent("chatMessage", source, _U('noadmin'))
+	end,
+	{help = _U('hlp')})
 end)

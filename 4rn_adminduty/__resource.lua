@@ -17,15 +17,15 @@ description 'ESX 4rn_adminduty'
 
 client_scripts {
 	'@es_extended/locale.lua',
-    'ad_client.lua',
+	'ad_client.lua',
 	'locales/hu.lua',
-    'ad_config.lua'
+	'ad_config.lua'
 }
 
 server_scripts {
 	'@es_extended/locale.lua',
-    'ad_server.lua',
+	'ad_server.lua',
 	'locales/hu.lua',
-    'ad_config.lua'
+	'ad_config.lua'
 }
 

@@ -29,6 +29,16 @@ Citizen.CreateThread(function()
 end)
 
 
+function cleanPlayer(playerPed)
+    local playerPed = PlayerPedId()
+	
+	SetPedArmour(playerPed, 0)
+    ClearPedBloodDamage(playerPed)
+    ResetPedVisibleDamage(playerPed)
+    ClearPedLastWeaponDamage(playerPed)
+    ResetPedMovementClipset(playerPed, 0)
+end
+
 function setUniform(playerPed)
     local playerPed = PlayerPedId()
     
