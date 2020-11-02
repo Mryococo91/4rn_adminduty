@@ -49,7 +49,7 @@ A project feltételezi, hogy FIVEM szerver alatt ESX keretrendszert használsz.A
 ### ACE csoportok meghatározása
 Az adminokat, moderátorokat, steam ID alapján a server.cfg-be előre meg kell adni. A következő sorokat a **server.cfg** file-ba írd bele:
 - add_principal identifier.steam:111111111111111 group.superadmin
-- add_principal identifier.steam:111111111111111 group.radmin
+- add_principal identifier.steam:111111111111111 group.admin
 - add_principal identifier.steam:111111111111111 group.mod
 
 *Természetesen az 111111111111 helyére az adminok ID-ját írd*
